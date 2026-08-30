@@ -35,6 +35,7 @@
 - 🛡️ Permission validation
 - 🤖 Modern slash command interface
 - 📝 Detailed terminal logging
+- 🌐 Environment-based token management
 
 ---
 
@@ -42,7 +43,9 @@
 
 ### 🛡️ Core Protection Shield
 
-The bot integrates security checks designed to prevent unauthorized cloning attempts. Unauthorized requests can be blocked and security events can be logged and reported to the configured owner.
+The bot integrates security checks designed to prevent unauthorized cloning attempts.
+
+Unauthorized requests can be blocked and security events can be logged and reported to the configured owner.
 
 ### 🔄 Precise Hierarchy Replication
 
@@ -64,3 +67,59 @@ Once the bot is added to your server with the required permissions, use the slas
 
 ```text
 /clone source_guild_id:<TARGET_SERVER_ID>
+```
+
+The bot will validate the request and, if authorized, begin the server structure replication process.
+
+
+## 📊 Replication Scope
+
+| Component | Supported |
+|---|:---:|
+| Roles | ✅ |
+| Role Permissions | ✅ |
+| Categories | ✅ |
+| Text Channels | ✅ |
+| Voice Channels | ✅ |
+| Channel Permissions | ✅ |
+| Permission Overwrites | ✅ |
+| Server Structure | ✅ |
+
+> Actual capabilities depend on the implementation in the current bot version and Discord API permissions.
+
+---
+## 🌐 Community & Support
+
+### Discord
+
+**Habab Agency Community**
+
+[https://discord.gg/hababagency](https://discord.gg/hababagency)
+
+### GitHub
+
+**@xloqia03**
+
+[https://github.com/xloqia03](https://github.com/xloqia03)
+
+---
+
+## 📜 Disclaimer
+
+This project is intended for legitimate server administration, migration, backup, testing, and development purposes.
+
+Only replicate servers and structures that you are authorized to manage or reproduce.
+
+Always follow Discord's Terms of Service and API policies.
+
+---
+
+<div align="center">
+
+# 🛡️ Habab Clone Bot
+
+### Secure replication • Absolute protection
+
+Made with ❤️ for secure Discord server management.
+
+</div>
