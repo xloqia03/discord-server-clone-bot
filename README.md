@@ -23,6 +23,8 @@
 
 **Habab Clone Bot** is a secure, high-performance utility designed to replicate Discord server structures, including categories, text channels, voice channels, roles, and permission hierarchies, while providing authorization and security controls against unauthorized access.
 
+---
+
 ### Features
 
 - 🔄 Full server structure replication
