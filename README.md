@@ -1,4 +1,4 @@
-# <p align="center"> <img src="https://raw.githubusercontent.com/xloqia03/discord-server-clone-bot/main/bot-logo.png" width="120" alt="Habab Clone Bot Logo"> </p>
+# <p align="center"> <img src="Habab-Clone-Bot.jpg" width="120" alt="Habab Clone Bot Logo"> </p>
 <h1 align="center">🛠️ Habab Clone Bot</h1>
 
 <p align="center">
